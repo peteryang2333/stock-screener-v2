@@ -1,0 +1,546 @@
+================================================================================
+OPTIMIZED FULL MARKET SCAN - ALL US STOCKS
+Scan Date: 2026-08-18
+Generated: 2026-08-18 13:37:17
+================================================================================
+
+SCANNING STATISTICS
+--------------------------------------------------------------------------------
+Total Universe: 3,781 stocks
+Analyzed: 1,869 stocks
+Processing Time: 63.0 minutes
+Actual TPS: 1.00
+🔴 Error Rate: 7.46%
+Buy Signals: 0
+🔴 Sell Signals: 31
+
+
+============================================================
+BENCHMARK SUMMARY
+============================================================
+
+🟡 SPY Trend Classification:
+  Phase: 1 - Base Building
+  Trend: Consolidating
+  Current Price: $nan
+  🟢 50 SMA: $nan (slope: 0.0367)
+  🟢 200 SMA: $nan (slope: 0.0686)
+  🟡 Confidence: 75%
+
+Market Breadth (n=1869):
+  🟡 Phase 1 (Base Building): 1752 stocks (93.7%)
+  🟢 Phase 2 (Uptrend): 80 stocks (4.3%)
+  🟡 Phase 3 (Distribution): 6 stocks (0.3%)
+  🔴 Phase 4 (Downtrend): 31 stocks (1.7%)
+  🔴 Breadth Quality: Weak
+
+🔴 Market Regime: RISK-OFF
+
+Interpretation:
+  🔴 Defensive environment - raise cash, tighten stops
+  → Avoid new breakouts, focus on preservation
+============================================================
+
+
+================================================================================
+🟢 TOP BUY SIGNALS (Score >= 70) - 0 Total
+================================================================================
+
+✗ NO BUY SIGNALS TODAY
+
+
+================================================================================
+🔴 TOP SELL SIGNALS (Score >= 60) - 31 Total
+================================================================================
+
+
+################################################################################
+🚨 SELL #1: UVV | Score: 80/110
+################################################################################
+Phase: 4 | 🚨 Severity: CRITICAL
+Breakdown: $51.36
+🔴 RS: -2.090
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 12.8%
+  • 50 SMA declining (slope: -0.0773)
+  • Low volume breakdown: 0.0x
+  • Sharp RS decline: -2.09
+FUNDAMENTAL SNAPSHOT - UVV
+No data available
+
+################################################################################
+🚨 SELL #2: WD | Score: 80/110
+################################################################################
+Phase: 4 | 🚨 Severity: CRITICAL
+Breakdown: $49.86
+🔴 RS: -2.060
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 19.6%
+  • 50 SMA declining (slope: -0.1409)
+  • Low volume breakdown: 0.0x
+  • Sharp RS decline: -2.06
+FUNDAMENTAL SNAPSHOT - WD
+No data available
+
+################################################################################
+🔴 SELL #3: TWI | Score: 77/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $7.48
+🔴 RS: -1.554
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 11.2%
+  • 50 SMA declining (slope: -0.0167)
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.55
+FUNDAMENTAL SNAPSHOT - TWI
+No data available
+
+################################################################################
+🔴 SELL #4: VERA | Score: 77/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $35.95
+🔴 RS: -1.167
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 12.1%
+  • 50 SMA declining (slope: -0.1844)
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.17
+FUNDAMENTAL SNAPSHOT - VERA
+No data available
+
+################################################################################
+🔴 SELL #5: VFC | Score: 77/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $16.34
+🔴 RS: -1.040
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 10.8%
+  • 50 SMA declining (slope: -0.2037)
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.04
+FUNDAMENTAL SNAPSHOT - VFC
+No data available
+
+################################################################################
+🔴 SELL #6: WBTN | Score: 77/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $10.59
+🔴 RS: -1.186
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 22.5%
+  • 50 SMA declining (slope: -0.5777)
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.19
+FUNDAMENTAL SNAPSHOT - WBTN
+No data available
+
+################################################################################
+🔴 SELL #7: WSO | Score: 77/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $366.50
+🔴 RS: -1.248
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 15.5%
+  • 50 SMA declining (slope: -0.3296)
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.25
+FUNDAMENTAL SNAPSHOT - WSO
+No data available
+
+################################################################################
+🔴 SELL #8: WVE | Score: 77/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $5.86
+🔴 RS: -1.252
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 13.0%
+  • 50 SMA declining (slope: -0.2460)
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.25
+FUNDAMENTAL SNAPSHOT - WVE
+No data available
+
+################################################################################
+🔴 SELL #9: VST | Score: 75/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $153.72
+🟡 RS: -0.466
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 6.0%
+  • 50 SMA declining (slope: -0.0281)
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.47
+FUNDAMENTAL SNAPSHOT - VST
+No data available
+
+################################################################################
+🔴 SELL #10: VTVT | Score: 75/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $33.19
+🔴 RS: -0.532
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 6.4%
+  • 50 SMA declining (slope: -0.0928)
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.53
+FUNDAMENTAL SNAPSHOT - VTVT
+No data available
+
+################################################################################
+🔴 SELL #11: WMG | Score: 72/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $27.72
+🔴 RS: -1.262
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 4.9%
+  • 50 SMA declining (slope: -0.4546)
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.26
+FUNDAMENTAL SNAPSHOT - WMG
+No data available
+
+################################################################################
+🔴 SELL #12: TSLA | Score: 70/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $369.35
+🟢 RS: 0.455
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 10.3%
+  • 50 SMA declining (slope: -0.5447)
+  • Low volume breakdown: 0.0x
+  • RS still positive: 0.45
+FUNDAMENTAL SNAPSHOT - TSLA
+No data available
+
+################################################################################
+🔴 SELL #13: TSSI | Score: 70/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $11.36
+🟢 RS: 0.643
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 17.7%
+  • 50 SMA declining (slope: -0.2982)
+  • Low volume breakdown: 0.2x
+  • RS still positive: 0.64
+FUNDAMENTAL SNAPSHOT - TSSI
+No data available
+
+################################################################################
+🔴 SELL #14: UAMY | Score: 70/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $6.42
+🟢 RS: 0.263
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 16.2%
+  • 50 SMA declining (slope: -0.8988)
+  • Low volume breakdown: 0.0x
+  • RS still positive: 0.26
+FUNDAMENTAL SNAPSHOT - UAMY
+No data available
+
+################################################################################
+🔴 SELL #15: XPOF | Score: 70/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $6.32
+🔴 RS: -3.502
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 19.9%
+  • Low volume breakdown: 0.0x
+  • Sharp RS decline: -3.50
+  • Failed breakout - closed back inside base
+FUNDAMENTAL SNAPSHOT - XPOF
+No data available
+
+################################################################################
+🔴 SELL #16: YUM | Score: 70/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $153.39
+🔴 RS: -0.646
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 4.7%
+  • 50 SMA declining (slope: -0.0163)
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.65
+FUNDAMENTAL SNAPSHOT - YUM
+No data available
+
+################################################################################
+🔴 SELL #17: ZTS | Score: 70/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $76.08
+🔴 RS: -0.771
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 3.4%
+  • 50 SMA declining (slope: -0.0520)
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.77
+FUNDAMENTAL SNAPSHOT - ZTS
+No data available
+
+################################################################################
+🔴 SELL #18: ZUMZ | Score: 70/110
+################################################################################
+Phase: 4 | 🔴 Severity: HIGH
+Breakdown: $18.89
+🔴 RS: -0.946
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 4.0%
+  • 50 SMA declining (slope: -0.4163)
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.95
+FUNDAMENTAL SNAPSHOT - ZUMZ
+No data available
+
+################################################################################
+🟡 SELL #19: UPWK | Score: 67/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $8.83
+🔴 RS: -1.363
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 6.3%
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.36
+  • Failed breakout - closed back inside base
+FUNDAMENTAL SNAPSHOT - UPWK
+No data available
+
+################################################################################
+🟡 SELL #20: WING | Score: 67/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $144.20
+🔴 RS: -1.525
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 21.3%
+  • 50 SMA declining (slope: -0.1388)
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.53
+FUNDAMENTAL SNAPSHOT - WING
+No data available
+
+################################################################################
+🟡 SELL #21: XP | Score: 67/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $16.12
+🔴 RS: -1.042
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Just below 50 SMA (0.3%)
+  • 50 SMA declining (slope: -0.1114)
+  • Low volume breakdown: 0.1x
+  • RS declining: -1.04
+FUNDAMENTAL SNAPSHOT - XP
+No data available
+
+################################################################################
+🟡 SELL #22: YELP | Score: 67/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $24.75
+🔴 RS: -1.409
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 6.5%
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.41
+  • Failed breakout - closed back inside base
+FUNDAMENTAL SNAPSHOT - YELP
+No data available
+
+################################################################################
+🟡 SELL #23: VICI | Score: 65/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $26.70
+🔴 RS: -0.588
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Just below 50 SMA (1.9%)
+  • 50 SMA declining (slope: -0.0980)
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.59
+FUNDAMENTAL SNAPSHOT - VICI
+No data available
+
+################################################################################
+🟡 SELL #24: VITL | Score: 65/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $11.86
+🔴 RS: -2.016
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 4.9%
+  • Low volume breakdown: 0.0x
+  • Sharp RS decline: -2.02
+  • Failed breakout - closed back inside base
+FUNDAMENTAL SNAPSHOT - VITL
+No data available
+
+################################################################################
+🟡 SELL #25: VNDA | Score: 65/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $5.66
+🟡 RS: -0.446
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Broke below 50 SMA by 6.4%
+  • 50 SMA declining (slope: -0.3876)
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.45
+FUNDAMENTAL SNAPSHOT - VNDA
+No data available
+
+################################################################################
+🟡 SELL #26: XRAY | Score: 65/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $11.71
+🔴 RS: -2.051
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 3.8%
+  • Low volume breakdown: 0.0x
+  • Sharp RS decline: -2.05
+  • Failed breakout - closed back inside base
+FUNDAMENTAL SNAPSHOT - XRAY
+No data available
+
+################################################################################
+🟡 SELL #27: VRSK | Score: 62/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $186.84
+🔴 RS: -1.607
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 4.6%
+  • Low volume breakdown: 0.0x
+  • RS declining: -1.61
+  • Failed breakout - closed back inside base
+FUNDAMENTAL SNAPSHOT - VRSK
+No data available
+
+################################################################################
+🟡 SELL #28: VMC | Score: 60/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $288.49
+🟡 RS: -0.459
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 4.0%
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.46
+  • Failed breakout - closed back inside base
+FUNDAMENTAL SNAPSHOT - VMC
+No data available
+
+################################################################################
+🟡 SELL #29: VYX | Score: 60/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $7.92
+🔴 RS: -0.792
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Below 50 SMA by 2.8%
+  • Low volume breakdown: 0.0x
+  • Weak RS rollover: -0.79
+  • Failed breakout - closed back inside base
+FUNDAMENTAL SNAPSHOT - VYX
+No data available
+
+################################################################################
+🟡 SELL #30: WLK | Score: 60/110
+################################################################################
+Phase: 4 | 🟡 Severity: MEDIUM
+Breakdown: $78.58
+🟢 RS: 0.488
+
+Sell Reasons:
+  • In Phase 4 (Downtrend)
+  • Just below 50 SMA (0.6%)
+  • 50 SMA declining (slope: -0.3626)
+  • Low volume breakdown: 0.0x
+  • RS still positive: 0.49
+FUNDAMENTAL SNAPSHOT - WLK
+No data available
+
+================================================================================
+ADDITIONAL SELLS (1 more)
+================================================================================
+
+XYL
+
+
+================================================================================
+END OF SCAN
+================================================================================
